@@ -1,5 +1,7 @@
 # Collections of Python scripts to manage Slack and enhance current Slack functionalities
 
+*practicing Github*
+
 All scripts follow [Slack API Methods](https://api.slack.com/methods)
 
 1. :snake: [workspace-channel-extract.py](https://github.com/joefrazey/slack-admin/blob/master/channel%20member%20extract.py) Extract channel members using [conversations.list](https://api.slack.com/methods/conversations.list)
