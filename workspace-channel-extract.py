@@ -1,7 +1,7 @@
 import requests, csv, json
 
 
-TOKEN = ## NEED TOKEN
+TOKEN = ## NEED WORKSPACE TOKEN
 CURSOR = ""
 PARAMS = {
     "token": TOKEN,
