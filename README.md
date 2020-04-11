@@ -1,6 +1,6 @@
 # Collections of Python scripts to manage Slack and enhance current Slack functionalities
 
-*practicing Github*
+*learning how to use Github*
 
 All scripts follow [Slack API Methods](https://api.slack.com/methods)
 
